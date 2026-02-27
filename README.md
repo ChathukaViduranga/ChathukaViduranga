@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Hey+%F0%9F%91%8B+I'm+Chathuka+Viduranga;Software+Engineer+%7C+Full+Stack+Developer;Building+cool+things+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hey+%F0%9F%91%8B+I+am+Chathuka+Viduranga;Software+Engineer+%7C+Full+Stack+Developer;Building+cool+things+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -84,12 +84,12 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ChathukaViduranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChathukaViduranga&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+<img height="195" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ChathukaViduranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=ChathukaViduranga&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ChathukaViduranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ChathukaViduranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
