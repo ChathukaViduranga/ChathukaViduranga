@@ -108,28 +108,11 @@ interests:
 
 ---
 
-## 🚀 Featured Projects
+## � Contribution Graph
 
 <div align="center">
 
-[![Stock Management](https://github-readme-stats.vercel.app/api/pin/?username=ChathukaViduranga&repo=Grpc-StockManagement-Demo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/ChathukaViduranga/Grpc-StockManagement-Demo)
-[![Bus Ticketing](https://github-readme-stats.vercel.app/api/pin/?username=ChathukaViduranga&repo=nextjs-busTicketing-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/ChathukaViduranga/nextjs-busTicketing-system)
-[![Flutter Image Compressor](https://github-readme-stats.vercel.app/api/pin/?username=ChathukaViduranga&repo=flutter_image_compressor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/ChathukaViduranga/flutter_image_compressor)
-[![DinosAR](https://github-readme-stats.vercel.app/api/pin/?username=ChathukaViduranga&repo=DinosAR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/ChathukaViduranga/DinosAR)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake-dark.svg" />
-</picture>
+[![Chathuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChathukaViduranga&bg_color=0D1117&color=C9D1D9&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
