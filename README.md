@@ -36,10 +36,7 @@ interests:
 ```
 
 - 🔭 Currently working as a **Software Engineer** at **MathaX**
-- 🎓 Graduated from **SLIIT** with BSc (Hons) in IT - Software Engineering
 - ☁️ **AWS Certified Cloud Practitioner**
-- 💼 Previously interned as a **Full Stack Engineer** at **Wiley**
-- 🏛️ Former **Secretary** of **MS Club of SLIIT**
 - 🌱 Always exploring new technologies and building innovative solutions
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
@@ -87,22 +84,12 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChathukaViduranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ChathukaViduranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChathukaViduranga&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathukaViduranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChathukaViduranga&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ChathukaViduranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
