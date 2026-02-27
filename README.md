@@ -95,11 +95,15 @@ interests:
 
 ---
 
-## � Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
-[![Chathuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChathukaViduranga&bg_color=0D1117&color=C9D1D9&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChathukaViduranga/ChathukaViduranga/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
